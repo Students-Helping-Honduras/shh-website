@@ -1,1 +1,1 @@
-# shh-website
+# Students Helping Honduras - static website
